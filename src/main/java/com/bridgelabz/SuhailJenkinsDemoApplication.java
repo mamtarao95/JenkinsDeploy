@@ -15,6 +15,6 @@ public class SuhailJenkinsDemoApplication {
 
 	@GetMapping("/")
 	public String displayMessage() {
-		return "Hello World";	
+		return "Hello World..Welcome to Jenkins!!!";	
 	}
 }
